@@ -1,6 +1,7 @@
-**Project Overview: Personal Expense Tracker (Python + MySQL CLI)**
+Personal Expense Tracker (Python + MySQL CLI)
 
 Key Features:
+
 -Add new expenses with amount, category, description, and date.
 
 -View all expenses or filter by category/date.
